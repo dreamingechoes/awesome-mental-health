@@ -18,6 +18,7 @@
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - By Brandon Gregory.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) - By Michael Scott Hertzberg.
 * [Software Developer Careers Considered Harmful](http://www.methodsandtools.com/archive/zenprogrammer.php) - By Christian Grobmeier.
+* [The Programmer’s Great Clinical Depression](https://simpleprogrammer.com/programmers-great-clinical-depression) - By Jason Lowenthal.
 * [Tips To Maintain Your Mental Health As A Software Developer](https://www.brightdevelopers.com/tips-maintain-mental-health-software-developer/) - By Steven To.
 * [We Need To Talk About Developers And Depression](https://www.creativebloq.com/web-design/we-need-talk-about-developers-and-depression-101413045) - By Greg Baugues.
 * [What Happens When Software Developers Are (un)Happy](https://www.sciencedirect.com/science/article/pii/S0164121218300323) - By Daniel Graziotin, Fabian Fagerholm, Xiaofeng Wang & Pekka Abrahamssone.
