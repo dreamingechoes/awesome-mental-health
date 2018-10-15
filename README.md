@@ -24,6 +24,7 @@
 * [What Happens When Software Developers Are (un)Happy](https://www.sciencedirect.com/science/article/pii/S0164121218300323) - By Daniel Graziotin, Fabian Fagerholm, Xiaofeng Wang & Pekka Abrahamssone.
 * [What It's Like Being A Developer With Schizoaffective Disorder](https://dev.to/ogfris/what-its-like-being-a-developer-with-schizoaffective-disorder-1ei) - By Fris.
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - By Amir Salihefendic.
+* [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - By Theodora S. Abigail.
 
 ## Organizations
 
