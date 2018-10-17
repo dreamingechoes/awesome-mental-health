@@ -34,6 +34,7 @@
 
 ## Talks
 
+* [Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018](https://www.youtube.com/watch?v=NGiy02nEcG8) - By James Meickle.
 * [Developers And Depression - Codeland NYC 2017](https://www.youtube.com/watch?v=us4w6lBV30Y) - By Greg Baugues.
 * [Hitting The Wall And How To Get Up Again - Tackling Burnout And Strategies For Self Care - PyCon Australia 2016](https://www.youtube.com/watch?v=Rdc06jpjVIY) - By Jackson Fairchild.
 * [Howto: Not Get A Burnout - PowerShell Conference EU 2018](https://www.youtube.com/watch?v=0MjqMlkA3gs) - By Jeff Wouters.
