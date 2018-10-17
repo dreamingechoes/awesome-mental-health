@@ -20,8 +20,12 @@
 * [Mental Self Care For Software Developers And Web Designers](https://www.elegantthemes.com/blog/editorial/mental-self-care-for-software-developers-and-web-designers) - By B.J. Keeton.
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - By Brandon Gregory.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) - By Michael Scott Hertzberg.
+* [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - By Merve Denizci Nazligul, Murat Yilmaz, Ulas Gulec, Mert Ali Gozcu, Rory V. O'Connor & Paul Clarke.
+* [Programmer Imposter Syndrome: 6 Ways To Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - By Ethan Urie. 
 * [Software Developer Careers Considered Harmful](http://www.methodsandtools.com/archive/zenprogrammer.php) - By Christian Grobmeier.
+* [Taming Anxiety And Hacking Your Way Into Productivity](https://hackernoon.com/taming-anxiety-and-hacking-your-way-into-productivity-1c9258b8380a) - By André Pena.
 * [The Programmer’s Great Clinical Depression](https://simpleprogrammer.com/programmers-great-clinical-depression) - By Jason Lowenthal.
+* [Tips For Dealing With Developer Stress](https://www.airpair.com/javascript/posts/tips-for-dealing-with-developer-stress) - By Rich McLaughlin.
 * [Tips To Maintain Your Mental Health As A Software Developer](https://www.brightdevelopers.com/tips-maintain-mental-health-software-developer/) - By Steven To.
 * [We Need To Talk About Developers And Depression](https://www.creativebloq.com/web-design/we-need-talk-about-developers-and-depression-101413045) - By Greg Baugues.
 * [What Happens When Software Developers Are (un)Happy](https://www.sciencedirect.com/science/article/pii/S0164121218300323) - By Daniel Graziotin, Fabian Fagerholm, Xiaofeng Wang & Pekka Abrahamssone.
