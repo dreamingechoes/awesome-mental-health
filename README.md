@@ -12,6 +12,9 @@
 
 ## Articles
 
+* [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
+* [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - By Joyce Akiko.
+* [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) - By Emily Aamodt.
 * [It's Okay To Not Be Okay](https://dev.to/andrew/its-okay-to-not-be-okay) - By Andrew Montagne.
 * [It's Time To Talk About Mental Health In The Games Industry](https://www.gamesindustry.biz/articles/2017-05-09-its-time-to-talk-about-mental-health-in-the-games-industry) - By Rich Eddy.
 * [Mental Self Care For Software Developers And Web Designers](https://www.elegantthemes.com/blog/editorial/mental-self-care-for-software-developers-and-web-designers) - By B.J. Keeton.
