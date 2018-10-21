@@ -1,8 +1,16 @@
-# Awesome Mental Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# Awesome Mental Health
+
+<p align="center"><img src="./media/logo.png"></p>
+
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg"/></a>
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
+</p>
+
+## About
 
 :sparkles: A curated list of awesome articles, websites and resources about mental health in the software industry. :sparkles:
-
-**Always work in progress.**
 
 ## Contents
 
@@ -11,6 +19,8 @@
 - [Talks](#talks)
 
 ## Articles
+
+Articles, posts and papers on mental health in technology.
 
 * [A Software Developer's Guide To Managing Stress](https://www.precisionsourcing.com.au/technology-workers-guide-managing-stress/) - By Daragh Byrne.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
@@ -22,7 +32,7 @@
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - By Brandon Gregory.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) - By Michael Scott Hertzberg.
 * [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - By Merve Denizci Nazligul, Murat Yilmaz, Ulas Gulec, Mert Ali Gozcu, Rory V. O'Connor & Paul Clarke.
-* [Programmer Imposter Syndrome: 6 Ways To Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - By Ethan Urie. 
+* [Programmer Imposter Syndrome: 6 Ways To Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - By Ethan Urie.
 * [Software Developer Careers Considered Harmful](http://www.methodsandtools.com/archive/zenprogrammer.php) - By Christian Grobmeier.
 * [Taming Anxiety And Hacking Your Way Into Productivity](https://hackernoon.com/taming-anxiety-and-hacking-your-way-into-productivity-1c9258b8380a) - By André Pena.
 * [The Programmer’s Great Clinical Depression](https://simpleprogrammer.com/programmers-great-clinical-depression) - By Jason Lowenthal.
@@ -36,11 +46,15 @@
 
 ## Organizations
 
+Organizations bringing mental health awareness to the software industry.
+
 * [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
 * [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 
 ## Talks
+
+Talks and presentations about mental health awareness and other testimonies and experiences in the software industry.
 
 * [Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018](https://www.youtube.com/watch?v=NGiy02nEcG8) - By James Meickle.
 * [Developers And Depression - Codeland NYC 2017](https://www.youtube.com/watch?v=us4w6lBV30Y) - By Greg Baugues.
@@ -54,8 +68,14 @@
 * [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - By Ed Finkler.
 * [The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0](https://www.youtube.com/watch?v=CWHfIdG0nOw) - By Danny Akacki.
 
+## Contributing
+
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
+
 ----------------------------
 
 This project was developed by [dreamingechoes](https://github.com/dreamingechoes).
 It adheres to its [code of conduct](./CODE_OF_CONDUCT.md) and
 [contributing guidelines](.github/CONTRIBUTING.md), and uses an equivalent [license](./LICENSE).
+
+Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).
