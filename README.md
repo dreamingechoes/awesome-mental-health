@@ -72,6 +72,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - By Ed Finkler.
 * [Successful, Accomplished, Depressed: A Talk About Performance, Perfectionism, And Burnout In IT - WeAreDevelopers 2018](https://www.youtube.com/watch?v=C84h5e9cOZY) - By Dennis Traub.
 * [The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0](https://www.youtube.com/watch?v=CWHfIdG0nOw) - By Danny Akacki.
+* [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia López Dornak.
 
 ## Contributing
 
