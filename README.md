@@ -12,7 +12,7 @@
 
 :sparkles: A curated list of awesome articles, websites and resources about mental health in the software industry. :sparkles:
 
-**Mental health** is a level of **psychological well-being** or **an absence of mental illness**. It's the psychological state of someone who is functioning at a satisfactory level of emotional and behavioural adjustment. 
+**Mental health** is a level of **psychological well-being** or **an absence of mental illness**. It's the psychological state of someone who is functioning at a satisfactory level of emotional and behavioural adjustment.
 
 **Mental health** includes subjective well-being perceived self-efficacy, autonomy, competence, inter-generational dependence, and self-actualization of one's intellectual and emotional potential, among others.
 
@@ -60,6 +60,7 @@ Organizations bringing mental health awareness to the software industry.
 
 Talks and presentations about mental health awareness and other testimonies and experiences in the software industry.
 
+* [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia López Dornak.
 * [Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018](https://www.youtube.com/watch?v=NGiy02nEcG8) - By James Meickle.
 * [Developers And Depression - Codeland NYC 2017](https://www.youtube.com/watch?v=us4w6lBV30Y) - By Greg Baugues.
 * [Hitting The Wall And How To Get Up Again - Tackling Burnout And Strategies For Self Care - PyCon Australia 2016](https://www.youtube.com/watch?v=Rdc06jpjVIY) - By Jackson Fairchild.
@@ -72,11 +73,16 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - By Ed Finkler.
 * [Successful, Accomplished, Depressed: A Talk About Performance, Perfectionism, And Burnout In IT - WeAreDevelopers 2018](https://www.youtube.com/watch?v=C84h5e9cOZY) - By Dennis Traub.
 * [The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0](https://www.youtube.com/watch?v=CWHfIdG0nOw) - By Danny Akacki.
-* [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia López Dornak.
 
 ## Contributing
 
 Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [dreamingechoes](https://github.com/dreamingechoes) has waived all copyright and related or neighboring rights to this work.
 
 ----------------------------
 
