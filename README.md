@@ -59,6 +59,7 @@ Conferences spreading the word of the importance of mental health awareness and 
 
 Organizations bringing mental health awareness to the software industry.
 
+* [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
 * [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
 * [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
