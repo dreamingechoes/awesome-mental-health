@@ -19,6 +19,7 @@
 ## Contents
 
 - [Articles](#articles)
+- [Conferences](#conferences)
 - [Organizations](#associations)
 - [Talks](#talks)
 
@@ -48,6 +49,12 @@ Articles, posts and papers on mental health in technology.
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - By Amir Salihefendic.
 * [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - By Theodora S. Abigail.
 
+## Conferences
+
+Conferences spreading the word of the importance of mental health awareness and self-care in the software industry.
+
+* [Anxiety Tech](http://www.anxietytech.com) - Learn how to advocate for mental health at work, how technology can be better designed to support mental health, what technologies are already working to help those who suffer with mental illnesses, and how you or your company can be leaders in this field.
+
 ## Organizations
 
 Organizations bringing mental health awareness to the software industry.
@@ -60,19 +67,31 @@ Organizations bringing mental health awareness to the software industry.
 
 Talks and presentations about mental health awareness and other testimonies and experiences in the software industry.
 
+* [Advocating For Mental Health At Work - AnxietyTech 2018](https://www.youtube.com/watch?v=GfTSrtJgemQ) - By Dr. Jessica DiVento.
+* [Anxiety & Calm Technology - AnxietyTech 2018](https://www.youtube.com/watch?v=hhliVWI4mCY) - By Amber Case.
 * [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia López Dornak.
 * [Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018](https://www.youtube.com/watch?v=NGiy02nEcG8) - By James Meickle.
+* [Cultivating Compassionate Tech Communities - AnxietyTech 2018](https://www.youtube.com/watch?v=4COZk8IjbJs) - By April Wensel.
 * [Developers And Depression - Codeland NYC 2017](https://www.youtube.com/watch?v=us4w6lBV30Y) - By Greg Baugues.
+* [Fight Tech With Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=DDka7_Yaaw4) - By Pamela Fox.
+* [Getting Therapy To Those Who Need It Most - AnxietyTech 2018](https://www.youtube.com/watch?v=O4AWH5o1NVk) - By Shawn Kernes.
+* [Hacking With My Anxiety - AnxietyTech 2018](https://www.youtube.com/watch?v=8tB6Eo8iJ70) - By Bryan Hughes.
 * [Hitting The Wall And How To Get Up Again - Tackling Burnout And Strategies For Self Care - PyCon Australia 2016](https://www.youtube.com/watch?v=Rdc06jpjVIY) - By Jackson Fairchild.
 * [Howto: Not Get A Burnout - PowerShell Conference EU 2018](https://www.youtube.com/watch?v=0MjqMlkA3gs) - By Jeff Wouters.
 * [Imposter Syndrome - PyCon Australia 2016](https://www.youtube.com/watch?v=hNlLM0OUXDc) - By Bianca Gibson.
 * [It's Dangerous To Go Alone: Battling The Invisible Monsters In Tech - PyCon 2014](https://www.youtube.com/watch?v=1i8ylq4j_EY) - By Julie Pagano.
+* [Living With Bipolar Disorder As A Software Engineer - AnxietyTech 2018](https://www.youtube.com/watch?v=Jv9HdGwulE0) - By Jenna Quindica.
 * [Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018](https://www.youtube.com/watch?v=ITY3RAg_PW0) - By Mark Railton.
 * [Mental Health In Development - PyCon Australia 2016](https://www.youtube.com/watch?v=P4wWbHvNAvY) - By Eloise Macdonald-Meyer.
+* [Self Care: Avoiding Burnout - AnxietyTech 2018](https://www.youtube.com/watch?v=P4eR419RgVc) - By Shemika Lamare.
 * [Stress & Depression, A Taboo In Our Time - GOTO 2017](https://www.youtube.com/watch?v=jGG6Wip_PGg) - By Gitte Klitgaard.
 * [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - By Ed Finkler.
 * [Successful, Accomplished, Depressed: A Talk About Performance, Perfectionism, And Burnout In IT - WeAreDevelopers 2018](https://www.youtube.com/watch?v=C84h5e9cOZY) - By Dennis Traub.
+* [The Evolution Of VR Therapy - AnxietyTech 2018](https://www.youtube.com/watch?v=qdddeZfzrus) - By Skip Rizzo.
 * [The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0](https://www.youtube.com/watch?v=CWHfIdG0nOw) - By Danny Akacki.
+* [UX Of Wearables In Clinical Treatment For PTSD - AnxietyTech 2018](https://www.youtube.com/watch?v=Ru58976R0Gw) - By Ada Ng.
+* [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
+* [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
 ## Contributing
 
