@@ -59,6 +59,7 @@ Conferences spreading the word of the importance of mental health awareness and 
 
 Organizations bringing mental health awareness to the software industry.
 
+* [Compassionate Coding](https://compassionatecoding.com) - Compassionate Coding combines the effective practices of agile software development with a focus on empathy and the latest in positive organizational psychology.
 * [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
 * [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
