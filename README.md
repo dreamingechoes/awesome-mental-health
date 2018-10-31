@@ -86,6 +86,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Living With Bipolar Disorder As A Software Engineer - AnxietyTech 2018](https://www.youtube.com/watch?v=Jv9HdGwulE0) - By Jenna Quindica.
 * [Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018](https://www.youtube.com/watch?v=ITY3RAg_PW0) - By Mark Railton.
 * [Mental Health In Development - PyCon Australia 2016](https://www.youtube.com/watch?v=P4wWbHvNAvY) - By Eloise Macdonald-Meyer.
+* [Programmers Don't Like People...Or Do They? - Node.js Interactive 2018](https://www.youtube.com/watch?v=HPFuHS6aPhw) - By April Wensel.
 * [Self Care: Avoiding Burnout - AnxietyTech 2018](https://www.youtube.com/watch?v=P4eR419RgVc) - By Shemika Lamare.
 * [Stress & Depression, A Taboo In Our Time - GOTO 2017](https://www.youtube.com/watch?v=jGG6Wip_PGg) - By Gitte Klitgaard.
 * [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - By Ed Finkler.
