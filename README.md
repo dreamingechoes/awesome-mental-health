@@ -69,7 +69,7 @@ Organizations bringing mental health awareness to the software industry.
 
 ## Podcasts
 
-Podcast episodes with **mental health awareness in the software industry** as the main theme.
+Podcast episodes with «mental health awareness in the software industry» as the main theme.
 
 * [Jerk Programmer To Compassionate Coder](http://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel) - By April Wensel in the Ardent Development podcast.
 
