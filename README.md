@@ -21,6 +21,7 @@
 - [Articles](#articles)
 - [Conferences](#conferences)
 - [Organizations](#associations)
+- [Podcasts](#podcasts)
 - [Talks](#talks)
 
 ## Articles
@@ -65,6 +66,12 @@ Organizations bringing mental health awareness to the software industry.
 * [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
 * [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
+
+## Podcasts
+
+Podcast episodes with **mental health awareness in the software industry** as the main theme.
+
+* [Jerk Programmer To Compassionate Coder](http://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel) - By April Wensel in the Ardent Development podcast.
 
 ## Talks
 
