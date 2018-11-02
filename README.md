@@ -60,7 +60,7 @@ Conferences spreading the word of the importance of mental health awareness and 
 
 ## Meetups
 
-Meetups groups all around the world focusing on mental health in the software industry.
+Meetup groups all around the world focusing on mental health in the software industry.
 
 * [Mental Health In Tech Auckland](https://www.meetup.com/mental-health-in-tech-auckland/) - Organized by Navs, Kai L. & Helen D.
 
