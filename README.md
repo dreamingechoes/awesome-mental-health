@@ -20,6 +20,7 @@
 
 - [Articles](#articles)
 - [Conferences](#conferences)
+- [Meetups](#meetups)
 - [Organizations](#associations)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
@@ -56,6 +57,12 @@ Articles, posts and papers on mental health in technology.
 Conferences spreading the word of the importance of mental health awareness and self-care in the software industry.
 
 * [Anxiety Tech](http://www.anxietytech.com) - Learn how to advocate for mental health at work, how technology can be better designed to support mental health, what technologies are already working to help those who suffer with mental illnesses, and how you or your company can be leaders in this field.
+
+## Meetups
+
+Meetups groups all around the world focusing on mental health in the software industry.
+
+* [Mental Health In Tech Auckland](https://www.meetup.com/mental-health-in-tech-auckland/) - Organized by Navs, Kai L. & Helen D.
 
 ## Organizations
 
