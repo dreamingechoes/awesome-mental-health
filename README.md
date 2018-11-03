@@ -31,6 +31,7 @@ Articles, posts and papers on mental health in technology.
 
 * [A Software Developer's Guide To Managing Stress](https://www.precisionsourcing.com.au/technology-workers-guide-managing-stress/) - By Daragh Byrne.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
+* [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - By Abhishek Pillai.
 * [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - By Joyce Akiko.
 * [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) - By Emily Aamodt.
 * [It's Okay To Not Be Okay](https://dev.to/andrew/its-okay-to-not-be-okay) - By Andrew Montagne.
@@ -51,6 +52,7 @@ Articles, posts and papers on mental health in technology.
 * [What It's Like Being A Developer With Schizoaffective Disorder](https://dev.to/ogfris/what-its-like-being-a-developer-with-schizoaffective-disorder-1ei) - By Fris.
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - By Amir Salihefendic.
 * [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - By Theodora S. Abigail.
+* [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - By Muhammed Rajeef M K.
 
 ## Conferences
 
@@ -110,7 +112,6 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0](https://www.youtube.com/watch?v=CWHfIdG0nOw) - By Danny Akacki.
 * [UX Of Wearables In Clinical Treatment For PTSD - AnxietyTech 2018](https://www.youtube.com/watch?v=Ru58976R0Gw) - By Ada Ng.
 * [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
-* [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - By Muhammed Rajeef M K.
 * [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
 ## Contributing
