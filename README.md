@@ -84,6 +84,7 @@ Podcast episodes with «mental health awareness in the software industry» as th
 
 Talks and presentations about mental health awareness and other testimonies and experiences in the software industry.
 
+* [A Conversation About Mental Health In Tech - Distill 2014](https://vimeo.com/105802592) - By Ed Finkler, Greg Baugues, John Dalton & Paddy Foran.
 * [Advocating For Mental Health At Work - AnxietyTech 2018](https://www.youtube.com/watch?v=GfTSrtJgemQ) - By Dr. Jessica DiVento.
 * [Anxiety & Calm Technology - AnxietyTech 2018](https://www.youtube.com/watch?v=hhliVWI4mCY) - By Amber Case.
 * [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia López Dornak.
