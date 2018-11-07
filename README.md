@@ -36,6 +36,7 @@ Articles, posts and papers on mental health in technology.
 * [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) - By Emily Aamodt.
 * [It's Okay To Not Be Okay](https://dev.to/andrew/its-okay-to-not-be-okay) - By Andrew Montagne.
 * [It's Time To Talk About Mental Health In The Games Industry](https://www.gamesindustry.biz/articles/2017-05-09-its-time-to-talk-about-mental-health-in-the-games-industry) - By Rich Eddy.
+* [It's Time To Talk About Mental Illness In Indie Development](https://www.engadget.com/2018/04/04/mental-illness-indie-take-this-kate-edwards-mike-wilson) - By Jessica Conditt.
 * [Mental Self Care For Software Developers And Web Designers](https://www.elegantthemes.com/blog/editorial/mental-self-care-for-software-developers-and-web-designers) - By B.J. Keeton.
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - By Brandon Gregory.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) - By Michael Scott Hertzberg.
