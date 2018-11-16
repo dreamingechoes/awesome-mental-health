@@ -75,6 +75,7 @@ Organizations bringing mental health awareness to the software industry.
 
 * [Brown Sisters Speak](https://twitter.com/BrownSistersSpk) - Mental Health Peer Support & Advocacy for Women Of Color.
 * [Compassionate Coding](https://compassionatecoding.com) - Compassionate Coding combines the effective practices of agile software development with a focus on empathy and the latest in positive organizational psychology.
+* [Everybody Has A Brain](http://everybodyhasabrain.com/) - Everybody Has A Brain is about creating opportunities for dialogue around personal mental health.
 * [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
 * [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
 * [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - GitHub-based project and website that encourages a diversity of views regarding mental health.
