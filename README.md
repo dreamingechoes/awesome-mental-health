@@ -30,6 +30,7 @@
 Articles, posts and papers on mental health in technology.
 
 * [A Software Developer's Guide To Managing Stress](https://www.precisionsourcing.com.au/technology-workers-guide-managing-stress/) - By Daragh Byrne.
+* [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) - By Julia Nguyen.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - By Abhishek Pillai.
 * [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](https://dev.to/daraghjbyrne/how-to-beat-impostor-syndrome-and-stop-feeling-like-a-fake-18m8) - By Daragh Byrne.
