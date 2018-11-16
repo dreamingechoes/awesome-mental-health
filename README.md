@@ -19,6 +19,7 @@
 ## Contents
 
 - [Articles](#articles)
+- [Books](#books)
 - [Conferences](#conferences)
 - [Meetups](#meetups)
 - [Organizations](#associations)
@@ -56,6 +57,12 @@ Articles, posts and papers on mental health in technology.
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - By Amir Salihefendic.
 * [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - By Theodora S. Abigail.
 * [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - By Muhammed Rajeef M K.
+
+## Books
+
+Books that has mental health and self-care as the main theme.
+
+* [Mental Health In Tech: Guidelines For Mental Wellness In The Workplace](https://leanpub.com/osmi-mental-wellness-in-the-workplace) - By OSMI.
 
 ## Conferences
 
