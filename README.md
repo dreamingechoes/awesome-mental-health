@@ -18,6 +18,7 @@
 
 ## Contents
 
+- [Applications](#applications)
 - [Articles](#articles)
 - [Books](#books)
 - [Conferences](#conferences)
@@ -25,6 +26,12 @@
 - [Organizations](#associations)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
+
+## Applications
+
+Applications to help with dealing with anxiety, depression or other mental health topics.
+
+* [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
 
 ## Articles
 
