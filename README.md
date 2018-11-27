@@ -114,6 +114,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia López Dornak.
 * [Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018](https://www.youtube.com/watch?v=NGiy02nEcG8) - By James Meickle.
 * [Cultivating Compassionate Tech Communities - AnxietyTech 2018](https://www.youtube.com/watch?v=4COZk8IjbJs) - By April Wensel.
+* [Debugging Our Feelings: Cognitive Behavioural Therapy For Developers - Peers Conference 2018](https://vimeo.com/253833709) - By Jamie Strachan.
 * [Developers And Depression - Codeland NYC 2017](https://www.youtube.com/watch?v=us4w6lBV30Y) - By Greg Baugues.
 * [Fight Tech With Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=DDka7_Yaaw4) - By Pamela Fox.
 * [Getting Therapy To Those Who Need It Most - AnxietyTech 2018](https://www.youtube.com/watch?v=O4AWH5o1NVk) - By Shawn Kernes.
