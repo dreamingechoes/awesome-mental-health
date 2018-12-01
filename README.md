@@ -52,6 +52,7 @@ Articles, posts and papers on mental health in technology.
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - By Brandon Gregory.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) - By Michael Scott Hertzberg.
 * [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - By Merve Denizci Nazligul, Murat Yilmaz, Ulas Gulec, Mert Ali Gozcu, Rory V. O'Connor & Paul Clarke.
+* [Perfectionism, Anxiety And Learning To Be Kind To Yourself](https://medium.com/samsung-internet-dev/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704) - By Jo Franchetti.
 * [Programmer Imposter Syndrome: 6 Ways To Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - By Ethan Urie.
 * [Software Developer Careers Considered Harmful](http://www.methodsandtools.com/archive/zenprogrammer.php) - By Christian Grobmeier.
 * [Sorry, Not Sorry - How To Advocate For Your Mental Health At Work](https://www.thriveglobal.com/stories/38629-how-to-advocate-for-yourself-at-work) - By Jessica DiVento.
