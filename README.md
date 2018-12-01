@@ -31,6 +31,7 @@
 
 Applications to help with dealing with anxiety, depression or other mental health topics.
 
+* [Moodpath](https://www.moodpath.de/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
 * [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
 
 ## Articles
