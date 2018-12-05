@@ -78,6 +78,7 @@ Books that has mental health and self-care as the main theme.
 
 Conferences spreading the word of the importance of mental health awareness and self-care in the software industry.
 
+* [Computing And Mental Health](http://mentalhealth.media.mit.edu/) - Bringing together communities.
 * [Anxiety Tech](http://www.anxietytech.com) - Learn how to advocate for mental health at work, how technology can be better designed to support mental health, what technologies are already working to help those who suffer with mental illnesses, and how you or your company can be leaders in this field.
 
 ## Meetups
