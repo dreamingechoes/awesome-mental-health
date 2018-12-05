@@ -118,6 +118,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Cultivating Compassionate Tech Communities - AnxietyTech 2018](https://www.youtube.com/watch?v=4COZk8IjbJs) - By April Wensel.
 * [Debugging Our Feelings: Cognitive Behavioural Therapy For Developers - Peers Conference 2018](https://vimeo.com/253833709) - By Jamie Strachan.
 * [Developers And Depression - Codeland NYC 2017](https://www.youtube.com/watch?v=us4w6lBV30Y) - By Greg Baugues.
+* [Developers, Entrepreneurs And Depression - Business Of Software 2015](https://www.youtube.com/watch?v=zUQjZZJjKsY) - By Greg Baugues.
 * [Fight Tech With Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=DDka7_Yaaw4) - By Pamela Fox.
 * [Getting Therapy To Those Who Need It Most - AnxietyTech 2018](https://www.youtube.com/watch?v=O4AWH5o1NVk) - By Shawn Kernes.
 * [Hacking With My Anxiety - AnxietyTech 2018](https://www.youtube.com/watch?v=8tB6Eo8iJ70) - By Bryan Hughes.
