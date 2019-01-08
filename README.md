@@ -128,6 +128,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Howto: Not Get A Burnout - PowerShell Conference EU 2018](https://www.youtube.com/watch?v=0MjqMlkA3gs) - By Jeff Wouters.
 * [Imposter Syndrome - PyCon Australia 2016](https://www.youtube.com/watch?v=hNlLM0OUXDc) - By Bianca Gibson.
 * [It's Dangerous To Go Alone: Battling The Invisible Monsters In Tech - PyCon 2014](https://www.youtube.com/watch?v=1i8ylq4j_EY) - By Julie Pagano.
+* [It's Darkest Before Dawn: Alcoholism And Addiction In Tech - DjangoCon US 2016](https://www.youtube.com/watch?v=lyVHKTGjivo) - By Timothy Allen.
 * [Living With Bipolar Disorder As A Software Engineer - AnxietyTech 2018](https://www.youtube.com/watch?v=Jv9HdGwulE0) - By Jenna Quindica.
 * [Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018](https://www.youtube.com/watch?v=ITY3RAg_PW0) - By Mark Railton.
 * [Mental Health In Development - PyCon Australia 2016](https://www.youtube.com/watch?v=P4wWbHvNAvY) - By Eloise Macdonald-Meyer.
