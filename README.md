@@ -73,6 +73,8 @@ Articles, posts and papers on mental health in technology.
 
 Books that has mental health and self-care as the main theme.
 
+* [Mental Health In Tech: Guidelines For Employees](https://leanpub.com/osmi-guidelines-for-employees) - By OSMI.
+* [Mental Health In Tech: Guidelines For Executives And HR Professionals](https://leanpub.com/osmi-guidelines-for-employers) - By OSMI.
 * [Mental Health In Tech: Guidelines For Mental Wellness In The Workplace](https://leanpub.com/osmi-mental-wellness-in-the-workplace) - By OSMI.
 
 ## Conferences
