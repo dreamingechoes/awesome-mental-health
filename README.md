@@ -103,6 +103,7 @@ Organizations bringing mental health awareness to the software industry.
 * [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - GitHub-based project and website that encourages a diversity of views regarding mental health.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
 * [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
+* [SelfCare.Tech](http://selfcare.tech/) - A repository of self-care resources for developers & others.
 
 ## Podcasts
 
