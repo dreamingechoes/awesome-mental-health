@@ -23,7 +23,7 @@
 - [Books](#books)
 - [Conferences](#conferences)
 - [Meetups](#meetups)
-- [Organizations](#associations)
+- [Organizations](#organizations)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
 
