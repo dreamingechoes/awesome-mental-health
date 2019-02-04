@@ -1,6 +1,4 @@
 
-# Awesome Mental Health
-
 <p align="center"><img src="./media/logo.png"></p>
 
 <p align="center">
