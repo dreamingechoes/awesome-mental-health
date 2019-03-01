@@ -41,6 +41,7 @@ Articles, posts and papers on mental health in technology.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) - By Julia Nguyen.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - By Abhishek Pillai.
+* [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) - By Joe Bell.
 * [For The Developers With Anxiety, And Everyone Else](https://medium.com/envato/for-the-developers-with-anxiety-and-everyone-else-834cc2517eba) - By Daine Mawer.
 * [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](https://dev.to/daraghjbyrne/how-to-beat-impostor-syndrome-and-stop-feeling-like-a-fake-18m8) - By Daragh Byrne.
 * [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - By Joyce Akiko.
@@ -136,6 +137,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Living With Bipolar Disorder As A Software Engineer - AnxietyTech 2018](https://www.youtube.com/watch?v=Jv9HdGwulE0) - By Jenna Quindica.
 * [Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018](https://www.youtube.com/watch?v=ITY3RAg_PW0) - By Mark Railton.
 * [Mental Health In Development - PyCon Australia 2016](https://www.youtube.com/watch?v=P4wWbHvNAvY) - By Eloise Macdonald-Meyer.
+* [Modern Mindfulness](https://www.youtube.com/watch?v=Dc2JkIXfx8I) - By Joe Bell.
 * [Programmers Don't Like People...Or Do They? - Node.js Interactive 2018](https://www.youtube.com/watch?v=HPFuHS6aPhw) - By April Wensel.
 * [Self Care: Avoiding Burnout - AnxietyTech 2018](https://www.youtube.com/watch?v=P4eR419RgVc) - By Shemika Lamare.
 * [Stress & Depression, A Taboo In Our Time - GOTO 2017](https://www.youtube.com/watch?v=jGG6Wip_PGg) - By Gitte Klitgaard.
