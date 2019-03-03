@@ -146,6 +146,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - By Ed Finkler.
 * [Successful, Accomplished, Depressed: A Talk About Performance, Perfectionism, And Burnout In IT - WeAreDevelopers 2018](https://www.youtube.com/watch?v=C84h5e9cOZY) - By Dennis Traub.
 * [The Evolution Of VR Therapy - AnxietyTech 2018](https://www.youtube.com/watch?v=qdddeZfzrus) - By Skip Rizzo.
+* [The Mental Impact of Tech Interviews - Code & Supply](https://www.youtube.com/watch?v=aIrKC41NwC0) - By Zack Zlotnik.
 * [The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0](https://www.youtube.com/watch?v=CWHfIdG0nOw) - By Danny Akacki.
 * [UX Of Wearables In Clinical Treatment For PTSD - AnxietyTech 2018](https://www.youtube.com/watch?v=Ru58976R0Gw) - By Ada Ng.
 * [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
