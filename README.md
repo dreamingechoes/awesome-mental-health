@@ -31,7 +31,7 @@ Applications to help with dealing with anxiety, depression or other mental healt
 
 * [Moodpath](https://www.moodpath.de/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
 * [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
-* [Quirk](https://getquirk.app/) - An open source mobile cognitive behavioral therapy (CBT) app for iOS
+* [Quirk](https://getquirk.app/) - An open source mobile cognitive behavioral therapy (CBT) app for iOS.
 
 ## Articles
 
@@ -101,6 +101,7 @@ Organizations bringing mental health awareness to the software industry.
 * [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
 * [IfMe](https://www.if-me.org) - Community for mental health experiences that encourages people to share their personal stories with trusted allies.
 * [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
+* [Mental Health Hackers](https://mentalhealthhackers.org/) - An Organization that aims at providing support services to those who may be susceptible to related mental health issues such as anxiety, depression, social isolation, eating disorders, etc.
 * [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - GitHub-based project and website that encourages a diversity of views regarding mental health.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
 * [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
@@ -138,7 +139,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Living With Bipolar Disorder As A Software Engineer - AnxietyTech 2018](https://www.youtube.com/watch?v=Jv9HdGwulE0) - By Jenna Quindica.
 * [Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018](https://www.youtube.com/watch?v=ITY3RAg_PW0) - By Mark Railton.
 * [Mental Health In Development - PyCon Australia 2016](https://www.youtube.com/watch?v=P4wWbHvNAvY) - By Eloise Macdonald-Meyer.
-* [Modern Mindfulness](https://www.youtube.com/watch?v=Dc2JkIXfx8I) - By Joe Bell.
+* [Modern Mindfulness - Hey! 2016](https://www.youtube.com/watch?v=Dc2JkIXfx8I) - By Joe Bell.
 * [Programmers Don't Like People...Or Do They? - Node.js Interactive 2018](https://www.youtube.com/watch?v=HPFuHS6aPhw) - By April Wensel.
 * [Self Care: Avoiding Burnout - AnxietyTech 2018](https://www.youtube.com/watch?v=P4eR419RgVc) - By Shemika Lamare.
 * [Stress & Depression, A Taboo In Our Time - GOTO 2017](https://www.youtube.com/watch?v=jGG6Wip_PGg) - By Gitte Klitgaard.
