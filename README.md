@@ -52,6 +52,7 @@ Articles, posts and papers on mental health in technology.
 * [It's Time To Talk About Mental Illness In Indie Development](https://www.engadget.com/2018/04/04/mental-illness-indie-take-this-kate-edwards-mike-wilson) - By Jessica Conditt.
 * [Mental Self Care For Software Developers And Web Designers](https://www.elegantthemes.com/blog/editorial/mental-self-care-for-software-developers-and-web-designers) - By B.J. Keeton.
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - By Brandon Gregory.
+* [My Mental Health Toolbelt](https://medium.com/@taylorotwell/my-mental-health-toolbelt-9b9fdd4ae149) - By Taylor Otwell.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) - By Michael Scott Hertzberg.
 * [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - By Merve Denizci Nazligul, Murat Yilmaz, Ulas Gulec, Mert Ali Gozcu, Rory V. O'Connor & Paul Clarke.
 * [Perfectionism, Anxiety And Learning To Be Kind To Yourself](https://medium.com/samsung-internet-dev/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704) - By Jo Franchetti.
