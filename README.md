@@ -37,13 +37,13 @@ Applications to help with dealing with anxiety, depression or other mental healt
 
 Articles, posts and papers on mental health in technology.
 
-* [A Software Developer's Guide To Managing Stress](https://www.precisionsourcing.com.au/technology-workers-guide-managing-stress/) - By Daragh Byrne.
+* [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) - By Daragh Byrne.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) - By Julia Nguyen.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - By Abhishek Pillai.
 * [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) - By Joe Bell.
 * [For The Developers With Anxiety, And Everyone Else](https://medium.com/envato/for-the-developers-with-anxiety-and-everyone-else-834cc2517eba) - By Daine Mawer.
-* [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](https://dev.to/daraghjbyrne/how-to-beat-impostor-syndrome-and-stop-feeling-like-a-fake-18m8) - By Daragh Byrne.
+* [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](http://codingmindfully.com/how-i-beat-impostor-syndrome/) - By Daragh Byrne.
 * [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - By Joyce Akiko.
 * [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) - By Emily Aamodt.
 * [Hunting For A Web Developer Job... With Crushing Anxiety And No Self-Esteem](https://medium.com/@jameslave/hunting-for-a-web-developer-job-with-crushing-anxiety-and-no-self-esteem-3aa64d67a0a4) - By James Lave.
