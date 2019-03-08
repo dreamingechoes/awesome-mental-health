@@ -7,4 +7,5 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Iván González](https://github.com/dreamingechoes).
 - [Gavin Henderson](https://github.com/gavinhenderson).
 - [Diego Maximiliano](https://github.com/diemax).
+- [Zack Zlotnik](https://github.com/cheesesashimi).
 - [Sigute](https://github.com/sigute).
