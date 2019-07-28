@@ -9,3 +9,4 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Diego Maximiliano](https://github.com/diemax).
 - [Zack Zlotnik](https://github.com/cheesesashimi).
 - [Sigute](https://github.com/sigute).
+- [Desi Rottman](https://github.com/desirottman).
