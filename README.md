@@ -39,7 +39,7 @@ Applications to help with dealing with anxiety, depression or other mental healt
 ## Articles
 
 Articles, posts and papers on mental health in technology.
-
+* [Ten Things You Can Do for Your Mental Health](https://www.uhs.umich.edu/tenthings)
 * [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) - By Daragh Byrne.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) - By Julia Nguyen.
 * [Coding, Fast And Slow: Developers And The Psychology Of Overconfidence](https://medium.com/better-programming/coding-fast-and-slow-developers-and-the-psychology-of-overconfidence-433388e7aec0) - By Dan Milstein.
