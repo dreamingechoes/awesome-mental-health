@@ -32,7 +32,7 @@ Applications to help with dealing with anxiety, depression or other mental healt
 
 * [Moodpath](https://www.moodpath.de/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
 * [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
-* [Quirk](https://getquirk.app/) - An open source mobile cognitive behavioral therapy (CBT) app for iOS.
+* [Quirk](https://www.quirk.fyi/) - A GPL Licensed Cognitive Behavioral Therapy (CBT) app for iOS and Android.
 * [Three Good Things](https://three-good-things.glitch.me/) - Write down three good things in your life every morning.
 * [we are ANXIO.us](http://weareanxio.us) - A collection of mental health and wellness apps, plus resources.
 
