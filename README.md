@@ -170,16 +170,10 @@ Talks and presentations about mental health awareness and other testimonies and 
 
 Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [dreamingechoes](https://github.com/dreamingechoes) has waived all copyright and related or neighboring rights to this work.
-
 ----------------------------
 
 This project was developed by [dreamingechoes](https://github.com/dreamingechoes).
 It adheres to its [code of conduct](./CODE_OF_CONDUCT.md) and
-[contributing guidelines](.github/CONTRIBUTING.md), and uses an equivalent [license](./LICENSE).
+[contributing guidelines](.github/CONTRIBUTING.md).
 
 Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).
