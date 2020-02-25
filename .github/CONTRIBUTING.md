@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+When adding a resource, please keep in mind the evidence backing up its use. Especially when talking about therapy, **it's important that there is high-quality clinical evidence for it.** Small tools or apps, and articles of personal experience are exempt from this.
+
 Please note that this project is released with a [Contributor Code of Conduct](../CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Adding to this list
@@ -16,6 +18,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the resource.
+- The aforementioned requirements for evidence.
 
 Feel free to add yourself to the [contributors list](../CONTRIBUTORS.md) (**in alphabetical order by surname**) when you add a contribution. Use the following format: `[Your Name](link)`.
 
