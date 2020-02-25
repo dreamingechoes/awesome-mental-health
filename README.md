@@ -168,7 +168,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 
 ## Contributing
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. You can also find an alphabetically-ordered list of contributors of this repository [here](CONTRIBUTORS.md).
 
 ----------------------------
 
