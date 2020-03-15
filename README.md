@@ -13,7 +13,11 @@
 
 **Mental health** is a level of **psychological well-being** or **an absence of mental illness**. It's the psychological state of someone who is functioning at a satisfactory level of emotional and behavioural adjustment.
 
-**Mental health** includes subjective well-being perceived self-efficacy, autonomy, competence, inter-generational dependence, and self-actualization of one's intellectual and emotional potential, among others.
+It includes subjective well-being, perceived self-efficacy, autonomy, competence, inter-generational dependence, and self-actualization of one's intellectual and emotional potential, among others.
+
+> This list compiles several self-help resources we've personally found useful for a range of mental health problems, but in no way are they a replacement of professional help, psychotherapy or pharmacotherapy. **We're not experts**, and even if we were, most of these tools are meant as an aid to therapy, not as a substitute.
+>
+>**If you're in a crisis, please see [here](https://twloha.com/find-help/international-resources/), or [here](https://www.iasp.info/resources/Crisis_Centres/) for resources in your country.**
 
 ## Contents
 
@@ -28,7 +32,7 @@
 
 ## Applications
 
-Applications to help with dealing with anxiety, depression or other mental health topics.
+Applications to help with dealing with anxiety, depression or other mental health problems.
 
 * [Moodpath](https://www.moodpath.de/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
 * [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
@@ -163,19 +167,12 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
 ## Contributing
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details. Here you have the alphabetical [list of contributors](CONTRIBUTORS.md) of this repository.
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. You can also find an alphabetically-ordered list of contributors of this repository [here](CONTRIBUTORS.md).
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [dreamingechoes](https://github.com/dreamingechoes) has waived all copyright and related or neighboring rights to this work.
+All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
 
 ----------------------------
 
-This project was developed by [dreamingechoes](https://github.com/dreamingechoes).
-It adheres to its [code of conduct](./CODE_OF_CONDUCT.md) and
-[contributing guidelines](.github/CONTRIBUTING.md), and uses an equivalent [license](./LICENSE).
-
-Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).
+This project was started by [dreamingechoes](https://github.com/dreamingechoes).
