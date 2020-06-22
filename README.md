@@ -108,6 +108,9 @@ Meetup groups all around the world focusing on mental health in the software ind
 
 Organizations bringing mental health awareness to the software industry.
 
+* [Black Minds Matter](http://blackmindsmatter.co.uk/) - A non-profit organisation that aims to empower communities of Black people aged 13- 25, and wants to make more equal and just society for all.
+* [Black Therapists Rock](https://www.blacktherapistsrock.com/) - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.
+* [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
 * [Brown Sisters Speak](https://twitter.com/BrownSistersSpk) - Mental Health Peer Support & Advocacy for Women Of Color.
 * [Compassionate Coding](https://compassionatecoding.com) - Compassionate Coding combines the effective practices of agile software development with a focus on empathy and the latest in positive organizational psychology.
 * [Everybody Has A Brain](http://everybodyhasabrain.com/) - Everybody Has A Brain is about creating opportunities for dialogue around personal mental health.
