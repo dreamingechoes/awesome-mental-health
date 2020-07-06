@@ -39,6 +39,7 @@ Applications to help with dealing with anxiety, depression or other mental healt
 * [Quirk](https://www.quirk.fyi/) - A GPL Licensed Cognitive Behavioral Therapy (CBT) app for iOS and Android.
 * [Three Good Things](https://three-good-things.glitch.me/) - Write down three good things in your life every morning.
 * [we are ANXIO.us](http://weareanxio.us) - A collection of mental health and wellness apps, plus resources.
+* [Wrabit](https://writewithwrabit.com) - Build a daily writing habit while contributing to mental health research.
 
 ## Articles
 
