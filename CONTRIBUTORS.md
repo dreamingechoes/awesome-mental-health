@@ -13,3 +13,4 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Sigute](https://github.com/sigute).
 - [Desi Rottman](https://github.com/desirottman).
 - [Nazeefa Fatima](https://github.com/Nazeeefa).
+- [Alice Zhao](https://github.com/alicelovescake).
