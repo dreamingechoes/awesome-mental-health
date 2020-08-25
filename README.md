@@ -35,12 +35,12 @@ It includes subjective well-being, perceived self-efficacy, autonomy, competence
 Applications to help with dealing with anxiety, depression or other mental health problems.
 
 * [Moodpath](https://www.moodpath.de/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
+* [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android.
 * [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
 * [Quirk](https://www.quirk.fyi/) - A GPL Licensed Cognitive Behavioral Therapy (CBT) app for iOS and Android.
 * [Three Good Things](https://three-good-things.glitch.me/) - Write down three good things in your life every morning.
 * [we are ANXIO.us](http://weareanxio.us) - A collection of mental health and wellness apps, plus resources.
 * [Wrabit](https://writewithwrabit.com) - Build a daily writing habit while contributing to mental health research.
-* [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android
 
 ## Articles
 
