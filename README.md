@@ -40,6 +40,7 @@ Applications to help with dealing with anxiety, depression or other mental healt
 * [Three Good Things](https://three-good-things.glitch.me/) - Write down three good things in your life every morning.
 * [we are ANXIO.us](http://weareanxio.us) - A collection of mental health and wellness apps, plus resources.
 * [Wrabit](https://writewithwrabit.com) - Build a daily writing habit while contributing to mental health research.
+* [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android
 
 ## Articles
 
