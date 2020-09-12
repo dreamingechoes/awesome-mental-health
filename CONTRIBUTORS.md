@@ -6,11 +6,12 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Joe Bell](https://github.com/joe-bell).
 - [Agustín Covarrubias](https://github.com/agucova).
 - [Matjaž Drolc](https://github.com/drola).
+- [Nazeefa Fatima](https://github.com/Nazeeefa).
 - [Iván González](https://github.com/dreamingechoes).
 - [Gavin Henderson](https://github.com/gavinhenderson).
 - [Diego Maximiliano](https://github.com/diemax).
-- [Zack Zlotnik](https://github.com/cheesesashimi).
-- [Sigute](https://github.com/sigute).
 - [Desi Rottman](https://github.com/desirottman).
-- [Nazeefa Fatima](https://github.com/Nazeeefa).
+- [Sigute](https://github.com/sigute).
+- [Spencer Smith](https://github.com/dotspencer).
 - [Alice Zhao](https://github.com/alicelovescake).
+- [Zack Zlotnik](https://github.com/cheesesashimi).
