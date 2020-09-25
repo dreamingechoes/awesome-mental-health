@@ -119,7 +119,6 @@ Organizations bringing mental health awareness to the software industry.
 * [Everybody Has A Brain](http://everybodyhasabrain.com/) - Everybody Has A Brain is about creating opportunities for dialogue around personal mental health.
 * [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
 * [IfMe](https://www.if-me.org) - Community for mental health experiences that encourages people to share their personal stories with trusted allies.
-* [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
 * [Mental Health Hackers](https://mentalhealthhackers.org/) - An Organization that aims at providing support services to those who may be susceptible to related mental health issues such as anxiety, depression, social isolation, eating disorders, etc.
 * [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - GitHub-based project and website that encourages a diversity of views regarding mental health.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
