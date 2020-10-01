@@ -58,7 +58,7 @@ Articles, posts and papers on mental health in technology.
 * [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](http://codingmindfully.com/how-i-beat-impostor-syndrome/) - By Daragh Byrne.
 * [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - By Joyce Akiko.
 * [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) - By Emily Aamodt.
-* [How To Move Your Organization From Fear To Fearlessness](https://blog.liberationist.org/how-to-move-your-organization-from-fear-to-fearlessness-5cef99e7eb77) - By Gustavo Razzetti.
+* [How To Move Your Organization From Fear To Fearlessness](https://liberationist.org/how-to-move-your-organization-from-fear-to-fearlessness/) - By Gustavo Razzetti.
 * [Hunting For A Web Developer Job... With Crushing Anxiety And No Self-Esteem](https://medium.com/@jameslave/hunting-for-a-web-developer-job-with-crushing-anxiety-and-no-self-esteem-3aa64d67a0a4) - By James Lave.
 * [I Can't Do It All: My Burnout Story](https://dev.to/molly_struve/i-cant-do-it-all-my-burnout-story-1e54) - By Molly Struve.
 * [Intro To Meditation For Coders](https://dev.to/256hz/intro-to-meditation-for-coders-1p6f) - By Abe Dolinger.
@@ -119,7 +119,6 @@ Organizations bringing mental health awareness to the software industry.
 * [Everybody Has A Brain](http://everybodyhasabrain.com/) - Everybody Has A Brain is about creating opportunities for dialogue around personal mental health.
 * [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
 * [IfMe](https://www.if-me.org) - Community for mental health experiences that encourages people to share their personal stories with trusted allies.
-* [InfoSanity](https://www.infosanity.org) - Mental health in the hacker community.
 * [Mental Health Hackers](https://mentalhealthhackers.org/) - An Organization that aims at providing support services to those who may be susceptible to related mental health issues such as anxiety, depression, social isolation, eating disorders, etc.
 * [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - GitHub-based project and website that encourages a diversity of views regarding mental health.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
