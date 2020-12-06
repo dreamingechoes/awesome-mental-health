@@ -50,6 +50,7 @@ Articles, posts and papers on mental health in technology.
 * [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) - By Daragh Byrne.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) - By Julia Nguyen.
 * [Coding, Fast And Slow: Developers And The Psychology Of Overconfidence](https://medium.com/better-programming/coding-fast-and-slow-developers-and-the-psychology-of-overconfidence-433388e7aec0) - By Dan Milstein.
+* [Depression At Work Is Skyrocketing, But It Doesn't Have To Be Your New Normal](https://www.fingerprintforsuccess.com/blog/depression-at-work) - By Bev Campling.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - By Abhishek Pillai.
 * [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) - By Joe Bell.
@@ -173,11 +174,12 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
 ## Contributing
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. You can also find an alphabetically-ordered list of contributors of this repository [here](CONTRIBUTORS.md).
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md)
 
-All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
+Please see [CONTRIBUTING](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. You can also find an alphabetically-ordered list of contributors of this repository [here](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CONTRIBUTORS.md).
+
+All contributors are expected to adhere to the [Code of Conduct](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
 
 ----------------------------
 
