@@ -61,6 +61,7 @@ Articles, posts and papers on mental health in technology.
 * [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) - By Emily Aamodt.
 * [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 * [How To Move Your Organization From Fear To Fearlessness](https://liberationist.org/how-to-move-your-organization-from-fear-to-fearlessness/) - By Gustavo Razzetti.
+* [How To Prevent Or Recover From Developer Burnout](https://www.actitime.com/productivity/how-to-prevent-burnout) - By Anastasia.
 * [Hunting For A Web Developer Job... With Crushing Anxiety And No Self-Esteem](https://medium.com/@jameslave/hunting-for-a-web-developer-job-with-crushing-anxiety-and-no-self-esteem-3aa64d67a0a4) - By James Lave.
 * [I Can't Do It All: My Burnout Story](https://dev.to/molly_struve/i-cant-do-it-all-my-burnout-story-1e54) - By Molly Struve.
 * [Intro To Meditation For Coders](https://dev.to/256hz/intro-to-meditation-for-coders-1p6f) - By Abe Dolinger.
