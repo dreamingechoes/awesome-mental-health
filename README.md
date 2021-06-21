@@ -49,6 +49,7 @@ Articles, posts and papers on mental health in technology.
 
 * [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) - By Daragh Byrne.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) - By Julia Nguyen.
+* [Beating Burnout: A Guide For Supporting Mental Health At Work](https://almanac.io/docs/beating-burnout-a-guide-for-supporting-mental-health-at-work-yDLKVF3uJtMdshcZG37HP7OHpAczogYX) - By Almanac Core.
 * [Coding, Fast And Slow: Developers And The Psychology Of Overconfidence](https://medium.com/better-programming/coding-fast-and-slow-developers-and-the-psychology-of-overconfidence-433388e7aec0) - By Dan Milstein.
 * [Depression At Work Is Skyrocketing, But It Doesn't Have To Be Your New Normal](https://www.fingerprintforsuccess.com/blog/depression-at-work) - By Bev Campling.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
