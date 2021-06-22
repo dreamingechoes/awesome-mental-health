@@ -16,3 +16,4 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Spencer Smith](https://github.com/dotspencer).
 - [Alice Zhao](https://github.com/alicelovescake).
 - [Zack Zlotnik](https://github.com/cheesesashimi).
+- [Kieran Gregan](https://github.com/KieranGregan).
