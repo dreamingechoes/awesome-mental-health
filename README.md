@@ -124,7 +124,6 @@ Organizations bringing mental health awareness to the software industry.
 * [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
 * [IfMe](https://www.if-me.org) - Community for mental health experiences that encourages people to share their personal stories with trusted allies.
 * [Mental Health Hackers](https://mentalhealthhackers.org/) - An Organization that aims at providing support services to those who may be susceptible to related mental health issues such as anxiety, depression, social isolation, eating disorders, etc.
-* [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - GitHub-based project and website that encourages a diversity of views regarding mental health.
 * [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
 * [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 * [SelfCare.Tech](http://selfcare.tech/) - A repository of self-care resources for developers & others.
