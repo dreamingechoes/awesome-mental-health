@@ -36,6 +36,7 @@ Applications to help with dealing with anxiety, depression or other mental healt
 
 * [Moodpath](https://mymoodpath.com/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
 * [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android.
+* [Lift](https://www.joinlift.com) – Build strength with learning, connecting with others, and tracking your mood and behavior.  Based on [therapeutic lifestyle change](https://www.apa.org/news/press/releases/2011/02/beyond-tlc).
 * [Sanvello](https://sanvello.com) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
 * [Quirk](https://www.quirk.fyi/) - A GPL Licensed Cognitive Behavioral Therapy (CBT) app for iOS and Android.
 * [Three Good Things](https://three-good-things.glitch.me/) - Write down three good things in your life every morning.
@@ -52,6 +53,7 @@ Articles, posts and papers on mental health in technology.
 * [Beating Burnout: A Guide For Supporting Mental Health At Work](https://almanac.io/docs/beating-burnout-a-guide-for-supporting-mental-health-at-work-yDLKVF3uJtMdshcZG37HP7OHpAczogYX) - By Almanac Core.
 * [Coding, Fast And Slow: Developers And The Psychology Of Overconfidence](https://medium.com/better-programming/coding-fast-and-slow-developers-and-the-psychology-of-overconfidence-433388e7aec0) - By Dan Milstein.
 * [Depression At Work Is Skyrocketing, But It Doesn't Have To Be Your New Normal](https://www.fingerprintforsuccess.com/blog/depression-at-work) - By Bev Campling.
+* [Developer Burnout Can Be a Serious Issue. Here Is How to Spot It](https://dev.to/vectorly/developer-burnout-can-be-a-serious-issue-here-is-how-to-spot-it-5bjd) - By Vectorly
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - By Abhishek Pillai.
 * [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) - By Joe Bell.
@@ -73,6 +75,7 @@ Articles, posts and papers on mental health in technology.
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - By Brandon Gregory.
 * [My Mental Health Toolbelt](https://medium.com/@taylorotwell/my-mental-health-toolbelt-9b9fdd4ae149) - By Taylor Otwell.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) - By Michael Scott Hertzberg.
+* [Overcome Programmer’s Anxiety: How to Face Your Fears](https://levelup.gitconnected.com/overcoming-programmers-anxiety-how-to-face-your-fears-7beaa7f0e30d) - By Ali Akhtari
 * [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - By Merve Denizci Nazligul, Murat Yilmaz, Ulas Gulec, Mert Ali Gozcu, Rory V. O'Connor & Paul Clarke.
 * [Perfectionism, Anxiety And Learning To Be Kind To Yourself](https://medium.com/samsung-internet-dev/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704) - By Jo Franchetti.
 * [Programmer Imposter Syndrome: 6 Ways To Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - By Ethan Urie.
