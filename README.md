@@ -134,6 +134,7 @@ Podcast episodes with «mental health awareness in the software industry» as th
 
 * [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) - By April Wensel in the Happy Porch podcast.
 * [Jerk Programmer To Compassionate Coder](http://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel) - By April Wensel in the Ardent Development podcast.
+* [How Tech Can Actually Help Mental Health](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vTEkzNjE3MTIxMjY3/episode/ZGQwYWMzZDYtYjRiNy00YzQ0LWI3MzMtM2E5MGJmZjg2ZWZm?sa=X&ved=0CAgQuIEEahcKEwi4hNjqmcT4AhUAAAAAHQAAAAAQLA) - By Big Technology podcast.
 
 ## Talks
 

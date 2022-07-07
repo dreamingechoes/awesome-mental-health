@@ -15,4 +15,6 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Sigute](https://github.com/sigute).
 - [Spencer Smith](https://github.com/dotspencer).
 - [Alice Zhao](https://github.com/alicelovescake).
-- [Zack Zlotnik](https://github.com/cheesesashimi).
+- [Zack Zlotnik](https://github.com/cheesesashimi)
+- [Yusra Ahmed](https://github.com/yusra-bit)
+
