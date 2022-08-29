@@ -54,6 +54,7 @@ Articles, posts and papers on mental health in technology.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - By Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - By Abhishek Pillai.
 * [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) - By Joe Bell.
+- [Does technology such as social media cause loneliness?](https://thedebuglife.com/blog/2022-08-29-does-technology-such-as-social-media-cause-loneliness/) - By Mitch Hankins.
 * [Encouraging Wellness in a Remote Workpalce](https://dev.to/desi/encouraging-wellness-in-a-remote-workplace-17m5) - By Desi Rottman.
 * [For The Developers With Anxiety, And Everyone Else](https://medium.com/envato/for-the-developers-with-anxiety-and-everyone-else-834cc2517eba) - By Daine Mawer.
 * [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](http://codingmindfully.com/how-i-beat-impostor-syndrome/) - By Daragh Byrne.
