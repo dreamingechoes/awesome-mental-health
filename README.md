@@ -41,6 +41,8 @@ Applications to help with dealing with anxiety, depression or other mental healt
 * [Wake Up Time](http://wakeupti.me/) - Calculates optimal times to wake up based on your body's sleep cycles.
 * [we are ANXIO.us](http://weareanxio.us) - A collection of mental health and wellness apps, plus resources.
 * [Wrabit](https://writewithwrabit.com) - Build a daily writing habit while contributing to mental health research.
+* [PsywellPath Concepts](https://glossary.psywellpath.com/) - Explore key psychological concepts in one place—clear, concise, and insightful.
+* [Psywell Tools](https://tools.psywellpath.com/)- Discover effective mental health tools for assessment, self-care, and well-being.
 
 ## Articles
 
@@ -88,6 +90,8 @@ Articles, posts and papers on mental health in technology.
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - By Amir Salihefendic.
 * [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - By Theodora S. Abigail.
 * [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - By Muhammed Rajeef M K.
+* [Psywell Path Blogs](https://blog.psywellpath.com/) - Dr Neeshu Rathore.
+  
 
 ## Books
 
