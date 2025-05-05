@@ -38,6 +38,7 @@ It covers topics including, but not limited to:
 - [Articles](#articles)
 - [Books](#books)
 - [Conferences](#conferences)
+- [Courses](#courses)
 - [Meetups](#meetups)
 - [Organizations](#organizations)
 - [Podcasts](#podcasts)
@@ -149,6 +150,12 @@ Conferences that promote mental health awareness, self-care, and emotional well-
 * [Mental Health America Annual Conference](https://mhanational.org/annual-conference) - A broad conference addressing national mental health issues, with tech-related tracks exploring innovation in digital mental health, privacy, and accessibility in mental health tech.
 
 ---
+
+## Courses
+
+Online courses, classes and learning resources focused on mental health, psychology and well-being for people in the tech industry.
+
+* [Coursera: The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being) - free 10 weeks course by Yale University. Lectures by Dr. Laurie Santos. Has practical rewirement homework activities to guide people to live a happier and more fulfilling life.
 
 ## Meetups
 
