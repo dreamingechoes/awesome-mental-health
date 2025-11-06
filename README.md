@@ -54,6 +54,7 @@ Apps that support mental health by helping users manage anxiety, depression, str
 * [EmoBay](https://emobay.org) – An AI-driven digital mental health platform offering 24/7 conversational support, mood tracking, and crisis-response guidance via a chatbot interface.
 * [eQuoo](https://www.equoogame.com) – A game-based app that teaches psychological skills to improve emotional fitness and resilience through interactive storytelling.
 * [Happify](https://www.happify.com) – Offers science-based activities and games designed to reduce stress, overcome negative thoughts, and build resilience.
+* [Happy EMDR](https://happyemdr.com) – Online EMDR therapy platform, providing unlimited self-guided sessions for relief from anxiety, depression, low self-esteem, and more.
 * [Headspace](https://www.headspace.com) – A meditation and mindfulness app offering guided sessions, sleep aids, and stress-reduction techniques. Backed by clinical research and widely used in workplace wellness programs.
 * [MindShift CBT](https://www.anxietycanada.com/resources/mindshift-cbt/) – Designed to help teens and young adults cope with anxiety using CBT strategies, including relaxation exercises and thought journals.
 * [Moodpath](https://mymoodpath.com/en/) – An interactive mental health journal that helps you reflect on your emotional well-being, screen for symptoms of depression, and access helpful resources. Developed with input from clinical psychologists.
