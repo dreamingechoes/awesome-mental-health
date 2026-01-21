@@ -123,7 +123,7 @@ Articles, personal essays, and research papers that explore mental health challe
 ## Books
 
 Books that explore mental health, self-care, and emotional well-being in the context of the tech industry — from personal stories and practical guides to research-backed strategies for navigating stress, burnout, imposter syndrome, and the challenges of modern software work.
-
+* [AI Biohacking: 33 Protocols](https://www.amazon.com/dp/B0G35SBQR3) - By Alexey Bitkin. A technical manual that treats anxiety and burnout as bugs in the "Mind OS", offering engineering protocols for debugging.
 * [Brotopia: Breaking Up the Boys’ Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Club-Silicon-Valley/dp/0735213534) - By Emily Chang. A revealing investigation into sexism and exclusion in tech culture—and the toll it takes on women’s mental health.
 * [Building a Startup Without Going Crazy](https://www.amazon.com/Building-Startup-Without-Going-Crazy/dp/946126643X) - By Leen de Bruyne. A set of 100 short lessons from a founder who burned out and recovered, offering advice for staying sane while launching a company.
 * [Burn Rate: Launching a Startup and Losing My Mind](https://www.amazon.com/Burn-Rate-Launching-Startup-Losing/dp/0593238265) - By Andy Dunn. A gripping memoir by the co-founder of Bonobos about living with bipolar disorder while building a startup.
