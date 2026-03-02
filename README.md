@@ -10,9 +10,9 @@
 
 ## About
 
-✨ A curated collection of outstanding articles, tools, and resources focused on mental health in the software industry. ✨
+â¨ A curated collection of outstanding articles, tools, and resources focused on mental health in the software industry. â¨
 
-**Mental health** is a foundational aspect of our overall well-being. It encompasses emotional, psychological, and social stability, and affects how we think, feel, act, relate to others, and make choices. In the context of the tech industry—where long hours, high pressure, and remote or isolated work environments are common—supporting mental health is a personal priority and a collective responsibility.
+**Mental health** is a foundational aspect of our overall well-being. It encompasses emotional, psychological, and social stability, and affects how we think, feel, act, relate to others, and make choices. In the context of the tech industryâwhere long hours, high pressure, and remote or isolated work environments are commonâsupporting mental health is a personal priority and a collective responsibility.
 
 This list gathers resources designed to raise awareness, promote self-care, reduce stigma, and help individuals and organizations navigate mental health challenges. From managing stress and anxiety to cultivating resilience and compassion at work, these tools aim to support developers, designers, managers, and anyone working in tech.
 
@@ -24,11 +24,11 @@ It covers topics including, but not limited to:
 * Imposter syndrome and self-doubt
 * Building psychologically safe engineering cultures
 
-> **Disclaimer:** This list is a collection of self-help and educational resources. While we’ve found many of them helpful, they are not a substitute for professional mental health care. Therapy, medication, and clinical support are often essential for recovery and well-being.
+> **Disclaimer:** This list is a collection of self-help and educational resources. While weâve found many of them helpful, they are not a substitute for professional mental health care. Therapy, medication, and clinical support are often essential for recovery and well-being.
 >
 > If you or someone you know is in crisis, please seek help immediately from local emergency services or a mental health professional. You can find international crisis support here:
-> * 🌍 [To Write Love on Her Arms – Find Help](https://twloha.com/find-help/international-resources/)
-> * 🌐 [International Association for Suicide Prevention – Crisis Centres](https://www.iasp.info/resources/Crisis_Centres/)
+> * ð [To Write Love on Her Arms â Find Help](https://twloha.com/find-help/international-resources/)
+> * ð [International Association for Suicide Prevention â Crisis Centres](https://www.iasp.info/resources/Crisis_Centres/)
 
 ---
 
@@ -49,31 +49,32 @@ It covers topics including, but not limited to:
 
 Apps that support mental health by helping users manage anxiety, depression, stress, sleep, and emotional resilience. These tools are not substitutes for professional care, but they can complement therapy or serve as entry points to self-reflection and support.
 
-* [Calm](https://www.calm.com) – Provides guided meditations, sleep stories, and breathing exercises to help reduce anxiety and improve sleep quality.
-* [Cope Notes](https://www.copenotes.com) – Sends daily text messages with positive thoughts, exercises, and journaling prompts to help combat depression and anxiety. Content is reviewed by mental health professionals.
-* [EmoBay](https://emobay.org) – An AI-driven digital mental health platform offering 24/7 conversational support, mood tracking, and crisis-response guidance via a chatbot interface.
-* [eQuoo](https://www.equoogame.com) – A game-based app that teaches psychological skills to improve emotional fitness and resilience through interactive storytelling.
-* [Happify](https://www.happify.com) – Offers science-based activities and games designed to reduce stress, overcome negative thoughts, and build resilience.
-* [Headspace](https://www.headspace.com) – A meditation and mindfulness app offering guided sessions, sleep aids, and stress-reduction techniques. Backed by clinical research and widely used in workplace wellness programs.
-* [MindShift CBT](https://www.anxietycanada.com/resources/mindshift-cbt/) – Designed to help teens and young adults cope with anxiety using CBT strategies, including relaxation exercises and thought journals.
-* [Moodpath](https://mymoodpath.com/en/) – An interactive mental health journal that helps you reflect on your emotional well-being, screen for symptoms of depression, and access helpful resources. Developed with input from clinical psychologists.
-* [Nyxo](https://nyxo.app) – An open-source sleep tracking and coaching app for iOS and Android. It offers personalized sleep insights and education to help you develop healthier sleep habits.
-* [PTSD Coach](https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp) – Developed by the U.S. Department of Veterans Affairs, this app provides education about PTSD, self-assessment tools, and resources for managing symptoms.
-* [Quirk](https://www.quirk.fyi/) – A free, open-source CBT app that helps you identify and reframe distorted thoughts. It’s a lightweight, privacy-focused tool designed to help users develop healthier thinking patterns.
-* [Sanvello](https://sanvello.com) – Provides daily tools to manage stress, anxiety, and depression using techniques from cognitive behavioral therapy (CBT), mindfulness, and mood tracking. Includes access to peer communities and therapy options.
-* [Three Good Things](https://three-good-things.glitch.me/) – A simple gratitude journaling app based on positive psychology research. Encourages users to reflect on three positive moments each day to build emotional resilience.
-* [Wake Up Time](http://wakeupti.me/) – A web-based tool that calculates optimal wake-up times based on 90-minute sleep cycles, helping users feel more rested and in sync with natural rhythms.
-* [we are ANXIO.us](http://weareanxio.us) – A thoughtfully curated collection of digital wellness tools, mental health apps, and community resources designed to support people living with anxiety.
-* [Woebot](https://woebothealth.com) – A mental health chatbot that delivers daily emotional support using principles from CBT, helping users track moods and develop coping strategies.
-* [Wrabit](https://writewithwrabit.com) – A writing app designed to help you build a daily journaling habit while contributing anonymously to mental health research.
-* [Wysa](https://www.wysa.io) – An AI-powered chatbot that uses evidence-based techniques like CBT and mindfulness to support users in managing stress, anxiety, and depression.
-* [Youper](https://www.youper.ai) – An AI-powered emotional health assistant that guides you through conversations and activities based on psychological techniques.
+* [Calm](https://www.calm.com) â Provides guided meditations, sleep stories, and breathing exercises to help reduce anxiety and improve sleep quality.
+* [Cope Notes](https://www.copenotes.com) â Sends daily text messages with positive thoughts, exercises, and journaling prompts to help combat depression and anxiety. Content is reviewed by mental health professionals.
+* [EmoBay](https://emobay.org) â An AI-driven digital mental health platform offering 24/7 conversational support, mood tracking, and crisis-response guidance via a chatbot interface.
+* [eQuoo](https://www.equoogame.com) â A game-based app that teaches psychological skills to improve emotional fitness and resilience through interactive storytelling.
+* [Happify](https://www.happify.com) â Offers science-based activities and games designed to reduce stress, overcome negative thoughts, and build resilience.
+* [Headspace](https://www.headspace.com) â A meditation and mindfulness app offering guided sessions, sleep aids, and stress-reduction techniques. Backed by clinical research and widely used in workplace wellness programs.
+* [MindShift CBT](https://www.anxietycanada.com/resources/mindshift-cbt/) â Designed to help teens and young adults cope with anxiety using CBT strategies, including relaxation exercises and thought journals.
+* [Moodpath](https://mymoodpath.com/en/) â An interactive mental health journal that helps you reflect on your emotional well-being, screen for symptoms of depression, and access helpful resources. Developed with input from clinical psychologists.
+* [Nyxo](https://nyxo.app) â An open-source sleep tracking and coaching app for iOS and Android. It offers personalized sleep insights and education to help you develop healthier sleep habits.
+* [PTSD Coach](https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp) â Developed by the U.S. Department of Veterans Affairs, this app provides education about PTSD, self-assessment tools, and resources for managing symptoms.
+* [Quirk](https://www.quirk.fyi/) â A free, open-source CBT app that helps you identify and reframe distorted thoughts. Itâs a lightweight, privacy-focused tool designed to help users develop healthier thinking patterns.
+* [Sanvello](https://sanvello.com) â Provides daily tools to manage stress, anxiety, and depression using techniques from cognitive behavioral therapy (CBT), mindfulness, and mood tracking. Includes access to peer communities and therapy options.
+* [Three Good Things](https://three-good-things.glitch.me/) â A simple gratitude journaling app based on positive psychology research. Encourages users to reflect on three positive moments each day to build emotional resilience.
+* [Unslaive](https://unslaive.space) – AI-powered psychological pattern profiling grounded in Schema Therapy, CBT, and Object Relations Theory. Takes a 20-question intake, runs it through 8 specialist AI experts, and delivers a 4-piece insight: your core pattern, its origin, a reframe, and a 7-day behavioral experiment.
+* [Wake Up Time](http://wakeupti.me/) â A web-based tool that calculates optimal wake-up times based on 90-minute sleep cycles, helping users feel more rested and in sync with natural rhythms.
+* [we are ANXIO.us](http://weareanxio.us) â A thoughtfully curated collection of digital wellness tools, mental health apps, and community resources designed to support people living with anxiety.
+* [Woebot](https://woebothealth.com) â A mental health chatbot that delivers daily emotional support using principles from CBT, helping users track moods and develop coping strategies.
+* [Wrabit](https://writewithwrabit.com) â A writing app designed to help you build a daily journaling habit while contributing anonymously to mental health research.
+* [Wysa](https://www.wysa.io) â An AI-powered chatbot that uses evidence-based techniques like CBT and mindfulness to support users in managing stress, anxiety, and depression.
+* [Youper](https://www.youper.ai) â An AI-powered emotional health assistant that guides you through conversations and activities based on psychological techniques.
 
 ---
 
 ## Articles
 
-Articles, personal essays, and research papers that explore mental health challenges in the tech industry — including burnout, imposter syndrome, depression, anxiety, and emotional well-being among software developers, engineers, and tech professionals.
+Articles, personal essays, and research papers that explore mental health challenges in the tech industry â including burnout, imposter syndrome, depression, anxiety, and emotional well-being among software developers, engineers, and tech professionals.
 
 * [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) - By Daragh Byrne.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) - By Julia Nguyen.
@@ -107,8 +108,8 @@ Articles, personal essays, and research papers that explore mental health challe
 * [Recovering From Burnout](https://kierantie.com/burnout) - By Kieran Tie.
 * [Software Developer Careers Considered Harmful](http://www.methodsandtools.com/archive/zenprogrammer.php) - By Christian Grobmeier.
 * [Sorry, Not Sorry - How To Advocate For Your Mental Health At Work](https://www.thriveglobal.com/stories/38629-how-to-advocate-for-yourself-at-work) - By Jessica DiVento.
-* [Taming Anxiety And Hacking Your Way Into Productivity](https://hackernoon.com/taming-anxiety-and-hacking-your-way-into-productivity-1c9258b8380a) - By André Pena.
-* [The Programmer’s Great Clinical Depression](https://simpleprogrammer.com/programmers-great-clinical-depression) - By Jason Lowenthal.
+* [Taming Anxiety And Hacking Your Way Into Productivity](https://hackernoon.com/taming-anxiety-and-hacking-your-way-into-productivity-1c9258b8380a) - By AndrÃ© Pena.
+* [The Programmerâs Great Clinical Depression](https://simpleprogrammer.com/programmers-great-clinical-depression) - By Jason Lowenthal.
 * [Tips For Dealing With Developer Stress](https://www.airpair.com/javascript/posts/tips-for-dealing-with-developer-stress) - By Rich McLaughlin.
 * [Tips To Maintain Your Mental Health As A Software Developer](https://www.brightdevelopers.com/tips-maintain-mental-health-software-developer/) - By Steven To.
 * [We Need To Talk About Developers And Depression](https://www.creativebloq.com/web-design/we-need-talk-about-developers-and-depression-101413045) - By Greg Baugues.
@@ -122,26 +123,26 @@ Articles, personal essays, and research papers that explore mental health challe
 
 ## Books
 
-Books that explore mental health, self-care, and emotional well-being in the context of the tech industry — from personal stories and practical guides to research-backed strategies for navigating stress, burnout, imposter syndrome, and the challenges of modern software work.
+Books that explore mental health, self-care, and emotional well-being in the context of the tech industry â from personal stories and practical guides to research-backed strategies for navigating stress, burnout, imposter syndrome, and the challenges of modern software work.
 
-* [Brotopia: Breaking Up the Boys’ Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Club-Silicon-Valley/dp/0735213534) - By Emily Chang. A revealing investigation into sexism and exclusion in tech culture—and the toll it takes on women’s mental health.
+* [Brotopia: Breaking Up the Boysâ Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Club-Silicon-Valley/dp/0735213534) - By Emily Chang. A revealing investigation into sexism and exclusion in tech cultureâand the toll it takes on womenâs mental health.
 * [Building a Startup Without Going Crazy](https://www.amazon.com/Building-Startup-Without-Going-Crazy/dp/946126643X) - By Leen de Bruyne. A set of 100 short lessons from a founder who burned out and recovered, offering advice for staying sane while launching a company.
 * [Burn Rate: Launching a Startup and Losing My Mind](https://www.amazon.com/Burn-Rate-Launching-Startup-Losing/dp/0593238265) - By Andy Dunn. A gripping memoir by the co-founder of Bonobos about living with bipolar disorder while building a startup.
 * [Code Review Anxiety Workbook](https://developersuccesslab.gitbook.io/code-review-anxiety-workbook/) - By Developer Success Lab. A free, research-backed workbook to help developers manage fear, stress, and criticism around code reviews.
 * [Developers and Depression](https://leanpub.com/developers-and-depression) - By Greg Baugues. A candid collection of essays and talks exploring bipolar disorder, ADHD, and mental illness in the developer community.
 * [Imposter Syndrome (No CS Degree)](https://gumroad.com/l/imposter-syndrome) - Compiled by Pete. Insights from over 30 self-taught developers about overcoming imposter syndrome and thriving in the tech world without a computer science degree.
-* [It Doesn’t Have to Be Crazy at Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780) - By Jason Fried and David Heinemeier Hansson. A manifesto for calm work culture from the Basecamp founders, arguing against hustle culture and burnout.
+* [It Doesnât Have to Be Crazy at Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780) - By Jason Fried and David Heinemeier Hansson. A manifesto for calm work culture from the Basecamp founders, arguing against hustle culture and burnout.
 * [Mental Health In Tech: Guidelines For Employees](https://leanpub.com/osmi-guidelines-for-employees) - By OSMI. A practical guide for employees navigating mental health at work, covering legal rights, accommodations, and how to advocate for wellness in the workplace.
 * [Mental Health In Tech: Guidelines For Executives And HR Professionals](https://leanpub.com/osmi-guidelines-for-employers) - By OSMI. A resource for company leaders on creating supportive environments, complying with legal obligations, and fostering inclusive mental health policies in tech teams.
 * [Mental Health In Tech: Guidelines For Mental Wellness In The Workplace](https://leanpub.com/osmi-mental-wellness-in-the-workplace) - By OSMI. A comprehensive handbook for building mentally healthy workplaces in tech, covering strategies, policy examples, and case studies.
 * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113) - By Tom DeMarco and Timothy Lister. An influential text on the human factors of software development, advocating for healthier team environments and better work-life balance.
-* [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) - By Tom DeMarco. A classic book on the importance of “slack” in developer workflows, highlighting the dangers of overwork and the need for creative space.
+* [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) - By Tom DeMarco. A classic book on the importance of âslackâ in developer workflows, highlighting the dangers of overwork and the need for creative space.
 
 ---
 
 ## Conferences
 
-Conferences that promote mental health awareness, self-care, and emotional well-being in the tech industry — creating space for open conversations, education, and innovation around the psychological challenges faced by developers, designers, founders, and tech teams.
+Conferences that promote mental health awareness, self-care, and emotional well-being in the tech industry â creating space for open conversations, education, and innovation around the psychological challenges faced by developers, designers, founders, and tech teams.
 
 * [Behavioral Health Tech](https://behavioralhealthtech.com) - The leading conference on innovation in behavioral health and technology. Brings together tech companies, healthcare providers, and developers working on mental health platforms and services.
 * [Computing And Mental Health](http://mentalhealth.media.mit.edu/) - A multidisciplinary gathering focused on how digital tools and computing technologies can support and enhance mental well-being. Hosted by the MIT Media Lab.
@@ -154,7 +155,7 @@ Conferences that promote mental health awareness, self-care, and emotional well-
 
 Community-led meetup groups around the world that create safe, supportive spaces for software professionals to connect, share experiences, and explore topics related to mental health, emotional well-being, and self-care in the tech industry.
 
-* [Berlin Mental Health Support Group](https://www.meetup.com/berlin-mental-health-support-group/) - A peer support circle for tech professionals and others navigating mental health challenges. Offers regular “Soundness Check” sessions in a safe, non-judgmental space.
+* [Berlin Mental Health Support Group](https://www.meetup.com/berlin-mental-health-support-group/) - A peer support circle for tech professionals and others navigating mental health challenges. Offers regular âSoundness Checkâ sessions in a safe, non-judgmental space.
 * [Thought Tech](https://www.meetup.com/thought-tech/) - Based in New York City, this group brings together technologists and innovators to explore the intersection of mental health and tech through open discussions and guest speakers.
 * [Wellness for People in Tech](https://www.meetup.com/wellness-for-people-in-tech/) - A Silicon Valley meetup helping IT professionals manage stress and avoid burnout. Hosts wellness-focused workshops on self-care, work-life balance, and mental resilience.
 
@@ -166,7 +167,7 @@ Organizations bringing mental health awareness to the software industry.
 
 * [Black Minds Matter](http://blackmindsmatter.co.uk/) - A non-profit organisation that aims to empower communities of Black people aged 13- 25, and wants to make more equal and just society for all.
 * [Black Therapists Rock](https://www.blacktherapistsrock.com/) - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.
-* [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
+* [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UKâs largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
 * [Brown Sisters Speak](https://twitter.com/BrownSistersSpk) - Mental Health Peer Support & Advocacy for Women Of Color.
 * [Compassionate Coding](https://compassionatecoding.com) - Compassionate Coding combines the effective practices of agile software development with a focus on empathy and the latest in positive organizational psychology.
 * [Everybody Has A Brain](http://everybodyhasabrain.com/) - Everybody Has A Brain is about creating opportunities for dialogue around personal mental health.
@@ -184,11 +185,11 @@ Organizations bringing mental health awareness to the software industry.
 
 Podcast episodes and series focused on mental health awareness in the software industry, including burnout, self-care, stress, and emotional resilience for developers and tech teams.
 
-* [Destigmatizing Mental Health in the Tech Industry](https://hanselminutes.com/728) – On Hanselminutes (Ep. 728). Scott Hanselman interviews Dr. Jennifer Akullian about breaking the stigma around therapy, stress, and emotional struggles in the software industry.
-* [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) – By April Wensel on the Happy Porch podcast. A conversation about compassionate coding and building emotionally intelligent engineering cultures.
-* [Mental Health in Tech](https://anchor.fm/mental-health-in-tech) – Hosted by Schalk Neethling and Schalk Venter. A monthly podcast sharing real stories from developers about mental health, burnout, vulnerability, and resilience in tech.
-* [Soft Skills Engineering](https://softskills.audio) – Hosted by Jamison Dance and Dave Smith. A humorous advice show for developers tackling topics like burnout, imposter syndrome, performance anxiety, and career balance.
-* [Valarie Regas’s Story](https://devjourney.info/Guests/284-ValarieRegas.html) – On Software Developer’s Journey. A heartfelt episode where Valarie discusses her experience with depression, anxiety, and the need for empathy in tech workplaces.
+* [Destigmatizing Mental Health in the Tech Industry](https://hanselminutes.com/728) â On Hanselminutes (Ep. 728). Scott Hanselman interviews Dr. Jennifer Akullian about breaking the stigma around therapy, stress, and emotional struggles in the software industry.
+* [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) â By April Wensel on the Happy Porch podcast. A conversation about compassionate coding and building emotionally intelligent engineering cultures.
+* [Mental Health in Tech](https://anchor.fm/mental-health-in-tech) â Hosted by Schalk Neethling and Schalk Venter. A monthly podcast sharing real stories from developers about mental health, burnout, vulnerability, and resilience in tech.
+* [Soft Skills Engineering](https://softskills.audio) â Hosted by Jamison Dance and Dave Smith. A humorous advice show for developers tackling topics like burnout, imposter syndrome, performance anxiety, and career balance.
+* [Valarie Regasâs Story](https://devjourney.info/Guests/284-ValarieRegas.html) â On Software Developerâs Journey. A heartfelt episode where Valarie discusses her experience with depression, anxiety, and the need for empathy in tech workplaces.
 
 ---
 
@@ -199,7 +200,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [A Conversation About Mental Health In Tech - Distill 2014](https://vimeo.com/105802592) - By Ed Finkler, Greg Baugues, John Dalton & Paddy Foran.
 * [Advocating For Mental Health At Work - AnxietyTech 2018](https://www.youtube.com/watch?v=GfTSrtJgemQ) - By Dr. Jessica DiVento.
 * [Anxiety & Calm Technology - AnxietyTech 2018](https://www.youtube.com/watch?v=hhliVWI4mCY) - By Amber Case.
-* [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia López Dornak.
+* [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - By Anastasia LÃ³pez Dornak.
 * [Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018](https://www.youtube.com/watch?v=NGiy02nEcG8) - By James Meickle.
 * [Burnout And Your Meat Computer - Electromagnetic Field 2018](https://www.youtube.com/watch?v=gcYRhATiyO4) - By Jessica Rose.
 * [Cultivating Compassionate Tech Communities - AnxietyTech 2018](https://www.youtube.com/watch?v=4COZk8IjbJs) - By April Wensel.
