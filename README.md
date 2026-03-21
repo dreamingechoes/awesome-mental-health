@@ -88,6 +88,7 @@ Articles, personal essays, and research papers that explore mental health challe
 * [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](http://codingmindfully.com/how-i-beat-impostor-syndrome/) - By Daragh Byrne.
 * [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - By Joyce Akiko.
 * [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) - By Emily Aamodt.
+* [How Not To Burn Out Your High Performers: The Signs And Strategies Every Manager Should Know](https://cadenceleadership.com/how-not-to-burn-out-your-high-performers-the-signs-and-strategies-every-manager-should-know/) - By Alex Moulton.
 * [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 * [How To Move Your Organization From Fear To Fearlessness](https://liberationist.org/how-to-move-your-organization-from-fear-to-fearlessness/) - By Gustavo Razzetti.
 * [How To Prevent Or Recover From Developer Burnout](https://www.actitime.com/productivity/how-to-prevent-burnout) - By Anastasia.
@@ -115,7 +116,6 @@ Articles, personal essays, and research papers that explore mental health challe
 * [What Happens When Software Developers Are (un)Happy](https://www.sciencedirect.com/science/article/pii/S0164121218300323) - By Daniel Graziotin, Fabian Fagerholm, Xiaofeng Wang & Pekka Abrahamssone.
 * [What It's Like Being A Developer With Schizoaffective Disorder](https://dev.to/ogfris/what-its-like-being-a-developer-with-schizoaffective-disorder-1ei) - By Fris.
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - By Amir Salihefendic.
-* [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - By Theodora S. Abigail.
 * [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - By Muhammed Rajeef M K.
 
 ---
