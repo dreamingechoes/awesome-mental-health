@@ -230,6 +230,7 @@ Talks and presentations about mental health awareness and other testimonies and 
 * [UX Of Wearables In Clinical Treatment For PTSD - AnxietyTech 2018](https://www.youtube.com/watch?v=Ru58976R0Gw) - By Ada Ng.
 * [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
 * [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for mental health tech workflow orchestration, automated wellness tool management, and multi-agent coordination. MIT licensed.
 
 ## Contributing
 
