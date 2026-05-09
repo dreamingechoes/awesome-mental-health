@@ -51,6 +51,7 @@ Apps that support mental health by helping users manage anxiety, depression, str
 
 * [Calm](https://www.calm.com) – Provides guided meditations, sleep stories, and breathing exercises to help reduce anxiety and improve sleep quality.
 * [Cope Notes](https://www.copenotes.com) – Sends daily text messages with positive thoughts, exercises, and journaling prompts to help combat depression and anxiety. Content is reviewed by mental health professionals.
+* [Dzeny](https://www.dzeny.com) – An AI-powered mental health chatbot using CBT techniques to provide evidence-based support for anxiety, relationship concerns, and stress. Created by clinical psychologist Valentina Lipskaya.
 * [EmoBay](https://emobay.org) – An AI-driven digital mental health platform offering 24/7 conversational support, mood tracking, and crisis-response guidance via a chatbot interface.
 * [eQuoo](https://www.equoogame.com) – A game-based app that teaches psychological skills to improve emotional fitness and resilience through interactive storytelling.
 * [Happify](https://www.happify.com) – Offers science-based activities and games designed to reduce stress, overcome negative thoughts, and build resilience.
