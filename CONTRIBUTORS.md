@@ -2,6 +2,7 @@
 
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
+- [Adeel Ahmad](https://github.com/realadeel/).
 - [Andy Alt](https://github.com/andy5995/).
 - [Joe Bell](https://github.com/joe-bell).
 - [Agustín Covarrubias](https://github.com/agucova).
