@@ -1,4 +1,3 @@
-
 <p align="center"><img src="./media/logo.png"></p>
 
 <p align="center">
@@ -62,6 +61,7 @@ Apps that support mental health by helping users manage anxiety, depression, str
 * [Quirk](https://www.quirk.fyi/) – A free, open-source CBT app that helps you identify and reframe distorted thoughts. It’s a lightweight, privacy-focused tool designed to help users develop healthier thinking patterns.
 * [Sanvello](https://sanvello.com) – Provides daily tools to manage stress, anxiety, and depression using techniques from cognitive behavioral therapy (CBT), mindfulness, and mood tracking. Includes access to peer communities and therapy options.
 * [Three Good Things](https://three-good-things.glitch.me/) – A simple gratitude journaling app based on positive psychology research. Encourages users to reflect on three positive moments each day to build emotional resilience.
+* [Trider](https://myhabits.in) – A free, ad-free habit tracker with a Crisis Mode for hard days: when you tap Crisis Mode, your full habit list is replaced with a guided breathing exercise, a vent journal, and one small win — so a bad day doesn't kill your streak. Also includes a daily journal with mood tracking and an AI coach that knows your habits and entries.
 * [Wake Up Time](http://wakeupti.me/) – A web-based tool that calculates optimal wake-up times based on 90-minute sleep cycles, helping users feel more rested and in sync with natural rhythms.
 * [we are ANXIO.us](http://weareanxio.us) – A thoughtfully curated collection of digital wellness tools, mental health apps, and community resources designed to support people living with anxiety.
 * [Woebot](https://woebothealth.com) – A mental health chatbot that delivers daily emotional support using principles from CBT, helping users track moods and develop coping strategies.
