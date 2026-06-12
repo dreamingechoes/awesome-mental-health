@@ -242,3 +242,8 @@ All contributors are expected to adhere to the [Code of Conduct](https://github.
 ---
 
 This project was started by [dreamingechoes](https://github.com/dreamingechoes).
+
+
+### 🧘 Tools for acute moments
+
+* [半分钟魂归守舍 / SoulReturn30s](https://an2025061.github.io/banfenzhong/) - Free offline 30-second emotion interrupt. Fight-or-flight, can't sleep, overwhelm. Single HTML (~16KB), no signup, no upload. Bilingual (ZH/EN). Open source: [AN2025061/banzhengzhong](https://github.com/AN2025061/banfenzhong).
