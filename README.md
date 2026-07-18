@@ -69,6 +69,8 @@ Apps that support mental health by helping users manage anxiety, depression, str
 * [Wysa](https://www.wysa.io) – An AI-powered chatbot that uses evidence-based techniques like CBT and mindfulness to support users in managing stress, anxiety, and depression.
 * [Youper](https://www.youper.ai) – An AI-powered emotional health assistant that guides you through conversations and activities based on psychological techniques.
 
+* [Mind Traps](https://ordinarymantrying.com/tools/mind-traps.html) – An interactive quiz covering 40 cognitive biases through real-world scenarios. Helps users recognize thought patterns that distort perception and decision-making — including all-or-nothing thinking, catastrophizing, and confirmation bias. Free, browser-based, no signup required.
+
 ---
 
 ## Articles
