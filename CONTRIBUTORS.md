@@ -4,6 +4,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 
 - [Andy Alt](https://github.com/andy5995/).
 - [Joe Bell](https://github.com/joe-bell).
+- [Sebastian Cochinescu](https://github.com/cochinescu).
 - [Agustín Covarrubias](https://github.com/agucova).
 - [Matjaž Drolc](https://github.com/drola).
 - [Nazeefa Fatima](https://github.com/Nazeeefa).
