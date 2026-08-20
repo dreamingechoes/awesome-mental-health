@@ -50,6 +50,7 @@ It covers topics including, but not limited to:
 Apps that support mental health by helping users manage anxiety, depression, stress, sleep, and emotional resilience. These tools are not substitutes for professional care, but they can complement therapy or serve as entry points to self-reflection and support.
 
 * [Calm](https://www.calm.com) – Provides guided meditations, sleep stories, and breathing exercises to help reduce anxiety and improve sleep quality.
+* [CBT Toolkit](https://473185670.github.io/cbt-toolkit/) – A collection of 23 free, open-source interactive CBT tools built with vanilla JavaScript (no framework, no backend, no signup). Includes thought records, a cognitive distortion checker, mood tracker, panic diary, and condition-specific guides for anxiety, depression, OCD, PTSD, and more. All data stays in the browser via localStorage.
 * [Cope Notes](https://www.copenotes.com) – Sends daily text messages with positive thoughts, exercises, and journaling prompts to help combat depression and anxiety. Content is reviewed by mental health professionals.
 * [EmoBay](https://emobay.org) – An AI-driven digital mental health platform offering 24/7 conversational support, mood tracking, and crisis-response guidance via a chatbot interface.
 * [eQuoo](https://www.equoogame.com) – A game-based app that teaches psychological skills to improve emotional fitness and resilience through interactive storytelling.
@@ -242,3 +243,4 @@ All contributors are expected to adhere to the [Code of Conduct](https://github.
 ---
 
 This project was started by [dreamingechoes](https://github.com/dreamingechoes).
+
