@@ -71,6 +71,7 @@ Apps that support mental health by helping users manage anxiety, depression, str
 
 ---
 
+* [Wellbeing Compass](https://wellbeing-compass-409cf0.gitlab.io/) – A free, evidence-based self-help web app covering 82 mental health topics (including burnout and imposter syndrome) in 10 languages, plus interactive tools like mood tracking, thought records, and guided grounding exercises. No ads or signup required.
 ## Articles
 
 Articles, personal essays, and research papers that explore mental health challenges in the tech industry — including burnout, imposter syndrome, depression, anxiety, and emotional well-being among software developers, engineers, and tech professionals.
