@@ -11,6 +11,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Iván González](https://github.com/dreamingechoes).
 - [Gavin Henderson](https://github.com/gavinhenderson).
 - [Diego Maximiliano](https://github.com/diemax).
+- [Adam Moen](https://github.com/adammoen).
 - [Desi Rottman](https://github.com/desirottman).
 - [Sigute](https://github.com/sigute).
 - [Spencer Smith](https://github.com/dotspencer).
