@@ -50,6 +50,7 @@ It covers topics including, but not limited to:
 Apps that support mental health by helping users manage anxiety, depression, stress, sleep, and emotional resilience. These tools are not substitutes for professional care, but they can complement therapy or serve as entry points to self-reflection and support.
 
 * [Calm](https://www.calm.com) – Provides guided meditations, sleep stories, and breathing exercises to help reduce anxiety and improve sleep quality.
+* [cogload](https://github.com/drakulavich/cogload) – A command-line tool and Claude Code plugin for developers who work with AI coding agents. It scores each hour of Claude Code work from 0 to 100 using parallel sessions, prompt pace, streaks without a break and late-night work, so you can see when a day got too heavy, and the plugin holds your prompts for a ten-minute rest after 40 minutes without a break. Open source; it reads only local files and keeps no message text.
 * [Cope Notes](https://www.copenotes.com) – Sends daily text messages with positive thoughts, exercises, and journaling prompts to help combat depression and anxiety. Content is reviewed by mental health professionals.
 * [EmoBay](https://emobay.org) – An AI-driven digital mental health platform offering 24/7 conversational support, mood tracking, and crisis-response guidance via a chatbot interface.
 * [eQuoo](https://www.equoogame.com) – A game-based app that teaches psychological skills to improve emotional fitness and resilience through interactive storytelling.
