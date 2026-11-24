@@ -68,6 +68,7 @@ Apps that support mental health by helping users manage anxiety, depression, str
 * [Wrabit](https://writewithwrabit.com) – A writing app designed to help you build a daily journaling habit while contributing anonymously to mental health research.
 * [Wysa](https://www.wysa.io) – An AI-powered chatbot that uses evidence-based techniques like CBT and mindfulness to support users in managing stress, anxiety, and depression.
 * [Youper](https://www.youper.ai) – An AI-powered emotional health assistant that guides you through conversations and activities based on psychological techniques.
+* [ZenIncenseLife](https://zenincenselife.com) – A free, timer-free sitting sanctuary in the browser: light virtual incense and listen to seasonal field-recorded soundscapes.
 
 ---
 
